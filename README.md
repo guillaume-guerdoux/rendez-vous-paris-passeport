@@ -1,7 +1,7 @@
 # Rendez-vous passeports - Paris
 
 ## Contexte
-Sur https://teleservices.paris.fr/rdvtitres/jsp/site/Portal.jsp?page=appointmentsearch&category=titres les rendez-vous apparaissent au fur et à mesure et sont très rapidement pris d'assault. Au lieu d'actualiser sans arrêt la page, ce script permet de rafraichir automatiquement la page et de faire une alerte vocal si un nouveau rendez-vous apparaît.
+Sur https://teleservices.paris.fr/rdvtitres/jsp/site/Portal.jsp?page=appointmentsearch&category=titres les rendez-vous apparaissent au fur et à mesure et sont très rapidement pris d'assaut. Au lieu d'actualiser sans arrêt la page, ce script permet de rafraichir automatiquement la page et de faire une alerte vocale si un nouveau rendez-vous apparaît.
 
 ## Installation
 ### Chromium
